@@ -1,12 +1,3 @@
-Vou analisar todos os arquivos da codebase para entender tecnicamente o que este projeto faz. Deixe-me examinar cada arquivo:
-Read file: config.ps1
-Read file: IP_PROXY_TOGGLE.bat
-Read file: ip_proxy_toggle.ps1
-
-Baseado na análise técnica completa da codebase, posso explicar que se trata de um **sistema automatizado de manipulação de configuração de rede** voltado para otimização de jogos online. Vou detalhar tecnicamente:
-
-## **Análise Técnica como Expert em Redes**
-
 ### **1. Propósito do Sistema**
 Este é um **IP Switching Proxy System** que implementa alternância dinâmica entre dois modos de configuração de rede para otimizar conectividade com servidores de jogos online (especificamente Ragnarok Online/OpenKore).
 
@@ -110,5 +101,3 @@ Este sistema implementa técnicas comumente usadas para:
 - DHCP/Static IP conversion
 - Multi-interface management
 - Network performance optimization
-
-O sistema é bem arquitetado com separação de responsabilidades, tratamento de erros robusto e capacidades de auto-recuperação.
