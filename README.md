@@ -1,4 +1,4 @@
-IP Switching Proxy - Versão Simples e Resumida
+IP Switching Proxy
 O que é isso?
 
 É uma ferramenta para trocar rapidamente a configuração de rede do seu PC. Ela ajuda a melhorar a conexão com servidores de jogos online (como Ragnarok Online), alternando entre um modo normal e um modo "proxy" que muda o IP para reduzir lag e contornar bloqueios.
