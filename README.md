@@ -5,7 +5,7 @@ O que é isso?
 Como funciona de forma básica?
 
 Modo Normal: Seu IP é automático (fornecido pelo roteador).
-Modo Proxy: Adiciona um IP extra (172.65.175.254) para otimizar a rota da conexão, mantendo o IP original como fixo.
+Modo Proxy: Adiciona um IP extra (172.65.175.254 no exemplo ou o que preferir) para otimizar a rota da conexão, mantendo o IP original como fixo.
 
 A ferramenta usa scripts simples (.bat e PowerShell) para fazer isso automaticamente, sem precisar configurar tudo manualmente.
 Como usar (passos simples para o usuário):
